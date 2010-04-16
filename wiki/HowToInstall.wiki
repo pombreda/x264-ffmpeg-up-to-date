@@ -1,0 +1,7 @@
+#summary how to install and use these scripts
+
+= Introduction =
+
+These scripts must be run as root, since they install and remove various packages on your system.
+
+If you do not how to run a script, run it as root or make the script executable, I will tell you here, since these scripts can damage your system if used incorrectly.
